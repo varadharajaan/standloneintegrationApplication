@@ -5,7 +5,7 @@ This demo project exaplins how [JUnit](https://github.com/junit-team/junit4) and
 
 ## Spring boot + Spring Data + H2 in-memory DB
 
-+ See here a [Reference Implementation](https://github.com/BeTheCodeWithYou/SpringBoot-ZeroCode-Integration) (**Author** - Neeraj Sidhaye @BeTheCodeWithYou)
++ See here a [Reference Implementation](https://github.com/BeTheCodeWithYou/SpringBoot-ZeroCode-Integration) 
 + What all stuffs the above [project](https://github.com/BeTheCodeWithYou/SpringBoot-ZeroCode-Integration) covers or why it is **useful** for developers as well as testers?
   + This project shows Fail-Fast approach and how easily you can do integration testing
   + How you should or you can set up your build pipe line to achieve zero defect APIs
@@ -13,8 +13,6 @@ This demo project exaplins how [JUnit](https://github.com/junit-team/junit4) and
   + Covers how the smart test reports can be useful to trace test failures
   + How the entire test suite can be **reused** as a regression pack for testers(the below article explains that)
   + How the Developers and Test-Engineers can collaborate for the best quality APIs
-  + This [article @Medium](https://medium.com/@bethecodewithyou/develop-zerodefect-apis-with-zerocode-cadd9dc2a430) exaplains step by step approach for achieving zero defect APIs (_same author_)
-
 
 ##### Needed maven dependencies
 ```xml
