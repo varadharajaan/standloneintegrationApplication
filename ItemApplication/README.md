@@ -134,17 +134,3 @@ public class ZerocodeSpringBootSuite extends ZeroCodePackageRunner {
 }
 ```
 
-Examples in GitHub
-===
-+ [GET api validation](https://github.com/authorjapps/spring-boot-integration-test/tree/master/src/test/resources/integration_tests/get)
-+ [POST api validation](https://github.com/authorjapps/spring-boot-integration-test/tree/master/src/test/resources/integration_tests/post)
-+ [PUT api validation](https://github.com/authorjapps/spring-boot-integration-test/tree/master/src/test/resources/integration_tests/put)
-+ [More test samples](https://github.com/authorjapps/spring-boot-integration-test/tree/master/src/test/resources/integration_tests)
-
-
-[How do I do integration testing of a spring boot application]: https://github.com/authorjapps/spring-boot-integration-test#spring-boot-integration-test
-[How to do integration testing of a spring boot application]: https://github.com/authorjapps/spring-boot-integration-test#spring-boot-integration-test
-[Integration testing of a spring boot application]: https://github.com/authorjapps/spring-boot-integration-test#spring-boot-integration-test
-[Zerocode testing of a spring boot application]: https://github.com/authorjapps/spring-boot-integration-test#spring-boot-integration-test
-[Zerocode JSON testing of a spring boot application]: https://github.com/authorjapps/spring-boot-integration-test#spring-boot-integration-test
-[Zerocode testing of a spring application]: https://github.com/authorjapps/spring-boot-integration-test#spring-boot-integration-test
